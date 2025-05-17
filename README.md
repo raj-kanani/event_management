@@ -4,6 +4,7 @@
 # Clone the repository
 
 git clone https://github.com/yourusername/event-management.git
+
 cd event-management
   
 
