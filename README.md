@@ -3,7 +3,7 @@
 
 # Clone the repository
 
-git clone https://github.com/yourusername/event-management.git
+git clone https://github.com/raj-kanani/event_management.git
 
 cd event-management
   
