@@ -56,3 +56,4 @@ docker-compose exec web python manage.py migrate
 ## Create superuser inside Docker container (optional)
 docker-compose exec web python manage.py createsuperuser
 # event_management
+# event_management
